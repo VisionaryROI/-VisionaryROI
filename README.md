@@ -12,11 +12,11 @@ Descarga la versión de escritorio:
 ---
 
 ## 📚 Guía Rápida de Uso
-1. Descargar la aplicación desde el enlace
+1. Descargar la aplicación desde el enlace o ingresa desde el portal web
 2. Instalar en Windows siguiendo el asistente
 3. Iniciar sesión con tus credenciales
-4. Cargar datos financieros y de mercado
-5. Generar análisis predictivos de ROI y riesgos
+4. Generar análisis predictivos de ROI y riesgos
+
 
 ---
 
