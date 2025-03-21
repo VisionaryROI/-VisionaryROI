@@ -67,6 +67,7 @@ Infraestructura escalable que integra múltiples servicios cloud:
 - **Azure Confidential Computing**: Encriptación end-to-end
 - **Azure Purview**: Gobierno de datos
 
+![seguridad](https://github.com/user-attachments/assets/aeddac88-2838-487b-9c02-7e5acd44a84f)
 
 
 ### 📊 Visualización
