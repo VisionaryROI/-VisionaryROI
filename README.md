@@ -6,7 +6,7 @@
 
 ## ✨ Descarga para Windows
 Descarga la versión de escritorio:  
-[VisionaryROI.exe]([enlace-de-descarga](https://1drv.ms/u/c/a310cb10c4df9e4b/EaODiwMy0a5CuhZ7ks8N7kQBQCArNRqdPwq7D_3nsNEeIw?e=aFUQ1w) 
+[VisionaryROI.exe]([enlace-de-descarga](https://1drv.ms/u/s!AliNSU8i5Q0NbIL6yJzq6fUvNnA?e=j79mdT) 
 
 ---
 
