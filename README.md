@@ -1,7 +1,13 @@
 # VisionaryROI 🚀
+![logo](https://github.com/user-attachments/assets/36bd4495-5767-400e-910f-189929aa85ae)
 
 **Solución avanzada para la predicción de ROI en proyectos empresariales**  
 *Combina inteligencia artificial y análisis de datos en la nube para decisiones estratégicas*
+
+
+
+
+
 ---
 
 ## ✨ Descarga para Windows
@@ -21,6 +27,11 @@ ingresa al portal web de VisionaryROI de forma agil desde el siguiente enlace
 2. Instalar en Windows siguiendo el asistente
 3. Iniciar sesión con tus credenciales
 4. Generar análisis predictivos de ROI y riesgos
+
+
+![image](https://github.com/user-attachments/assets/6509ada4-b647-445a-9719-fb61c8bcec7f)
+
+
 
 
 ---
@@ -44,14 +55,28 @@ Infraestructura escalable que integra múltiples servicios cloud:
 - **Azure Cognitive Services**: Análisis cualitativo
 - **Azure OpenAI**: Generación de informes
 
+![image](https://github.com/user-attachments/assets/6a492f14-85e2-4c1b-89ba-84e56283bacd)
+
+
+
+![image](https://github.com/user-attachments/assets/129b494b-849e-44f7-8ea5-7f49ac77213e)
+
+
 ### 🔒 Seguridad
 - **Microsoft Entra ID**: Gestión de identidades
 - **Azure Confidential Computing**: Encriptación end-to-end
 - **Azure Purview**: Gobierno de datos
 
+
+
 ### 📊 Visualización
 - **Power BI**: Dashboards interactivos
 - **Application Insights**: Telemetría en tiempo real
+
+![image](https://github.com/user-attachments/assets/c751f8ba-5caa-49a2-9295-38d657b7196f)
+
+![image](https://github.com/user-attachments/assets/a4493b7d-a619-4309-ac27-4d249e64e7ad)
+
 
 ---
 
