@@ -2,12 +2,17 @@
 
 **Solución avanzada para la predicción de ROI en proyectos empresariales**  
 *Combina inteligencia artificial y análisis de datos en la nube para decisiones estratégicas*
-
 ---
 
 ## ✨ Descarga para Windows
 Descarga la versión de escritorio:  
-[VisionaryROI.exe]([enlace-de-descarga](https://1drv.ms/u/c/a310cb10c4df9e4b/EaODiwMy0a5CuhZ7ks8N7kQBQCArNRqdPwq7D_3nsNEeIw?e=aFUQ1w)  
+[VisionaryROI.exe]([enlace-de-descarga](https://1drv.ms/u/c/a310cb10c4df9e4b/EaODiwMy0a5CuhZ7ks8N7kQBQCArNRqdPwq7D_3nsNEeIw?e=aFUQ1w) 
+
+---
+
+## ✨ Portal Web
+ingresa al portal web de VisionaryROI de forma agil desde el siguiente enlace
+(https://visionaryroi.azurewebsites.net)
 
 ---
 
