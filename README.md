@@ -6,11 +6,15 @@
 
 
 
---
+---
 
 ## HOY 
 [Presentacion VisionaryROI.pptx](https://github.com/user-attachments/files/19400860/Presentacion.VisionaryROI.pptx)
 
+---
+# Enlace al video de presentacion en YouTube
+
+https://youtu.be/A9h23QHg8-Y
 ---
 
 ## ✨ Descarga para Windows
