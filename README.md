@@ -6,7 +6,10 @@
 
 
 
+--
 
+## HOY 
+[Presentacion VisionaryROI.pptx](https://github.com/user-attachments/files/19400860/Presentacion.VisionaryROI.pptx)
 
 ---
 
@@ -19,6 +22,13 @@ Descarga la versión de escritorio:
 ## ✨ Portal Web
 ingresa al portal web de VisionaryROI de forma agil desde el siguiente enlace
 (https://visionaryroi.azurewebsites.net)
+
+---
+## Para acceder a la plataforma VisionaryROI , necesitas credenciales organizacionales . Te compartimos un correo y contraseña temporales de prueba:  
+Email: L16010408@orizaba.tecnm.mx 
+Contraseña: K9mFf*vBVxGax?uiJpm?K4V(cXJb   
+Si tienes problemas para entrar , envía un correo a adolfocontrerassix@gmail.com  explicando la situación . ¡Te ayudaremos pronto!  
+
 
 ---
 
